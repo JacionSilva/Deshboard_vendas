@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 import requests 
 from io import BytesIO
-import xlsxwriter
 import time
 
 
